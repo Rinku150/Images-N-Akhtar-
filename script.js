@@ -26,4 +26,4 @@ images.forEach(image => {
             fullScreenDiv.remove();
         });
     });
-});￼Enter
+});
